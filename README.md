@@ -5,6 +5,23 @@
 
 Recomenda-se salvar nos favoritos do navegador todas as páginas necessárias para evitar a pesquisa no GitLab a cada utilização.
 
+Link das paginas dos projetos do GitLab:
+- SRI: http://gitlab.celepar.parana/gcgit-sri/sri/-/issues/?sort=updated_desc&state=opened&first_page_size=100
+- SisBrigada: http://gitlab.celepar.parana/gcgit-sisbrigadas2/sisbrigadas2-doc
+- SGA: http://gitlab.celepar.parana/gcgit-sga/sga-doc
+- SAM: http://gitlab.celepar.parana/gcgit-sam/sam-doc
+- Registro Preços: http://gitlab.celepar.parana/gcgit-registroprecos/registroprecosdocs
+- Protesto: http://gitlab.celepar.parana/gcgit-protestoder/protestoder-doc
+- GMSE: http://gitlab.celepar.parana/gcgit-gmse/gmse
+- GLIFI: http://gitlab.celepar.parana/gcgit-glifi/glifi-docs
+- GAT: http://gitlab.celepar.parana/gcgit-gat/gat-doc
+- Aprova: http://gitlab.celepar.parana/gcgit-aprova/aprova-doc
+- Abastece: http://gitlab.celepar.parana/gcgit-abastece-pr/abastece-pr-doc
+
+
+### 🔎 Como fazer o download:
+Na barra lateral esquerda, tem uma aba chamada "Issues", la contem os cards em forma de postagem. Depois de entrar na paga Issues, no topo direito tem três pontinhos, clica neles. Então ira ter uma opção "Export as CSV". Então vai ser enviado ao seu email, la é so fazer o download.
+
 ---
 
 ## 🔄 Passo a Passo
