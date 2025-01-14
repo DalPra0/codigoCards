@@ -1,7 +1,7 @@
 # Documentação do Projeto
 
 ## 🔗 Link para Download
-**[Link do Drive com o aplicativo (.exe) para Windows](https://github.com/DalPra0/TDEProgWeb)**
+**[Link do Drive com o aplicativo (.exe) para Windows](https://drive.google.com/file/d/1ZF_Qdv_TLw89A2aaivcYV4zb1snhYeCv/view?usp=sharing)**
 
 Recomenda-se salvar nos favoritos do navegador todas as páginas necessárias para evitar a pesquisa no GitLab a cada utilização.
 
