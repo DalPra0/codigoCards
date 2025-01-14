@@ -52,6 +52,8 @@ Clique em **"Ok"** para avançar.
 
 Na próxima tela, é possível excluir colunas da planilha gerada. Para isso:
 
+![image](https://github.com/user-attachments/assets/293cd070-3e8d-41a4-8fca-8226b3a480bb)
+
 1. Selecione as colunas desejadas.
 2. Clique em **"Salvar"**.
 
