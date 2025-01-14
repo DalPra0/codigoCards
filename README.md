@@ -11,6 +11,7 @@ Recomenda-se salvar nos favoritos do navegador todas as páginas necessárias pa
 
 ### 1. Tela Inicial
 Ao executar o código, a seguinte tela será exibida:
+
 ![Tela Inicial](https://github.com/user-attachments/assets/3f954d8d-d335-4018-927f-07c8f8e9e000)
 
 - Clique no botão **"Selecionar Arquivo ou Pasta"**.
@@ -19,6 +20,7 @@ Ao executar o código, a seguinte tela será exibida:
 ### 2. Escolha de Arquivo ou Pasta
 
 Após clicar em **"Selecionar Arquivo ou Pasta"**, uma janela pop-up será exibida:
+
 ![Popup de Seleção](https://github.com/user-attachments/assets/3a3da24f-5010-4baf-80c7-8ffa2aa4a898)
 
 - **Sim**: Para selecionar um arquivo.
